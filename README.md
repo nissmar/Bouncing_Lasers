@@ -1,2 +1,5 @@
 # Bouncing_Lasers
-Laser bouncing simulation
+
+<img src="clock.gif">
+
+A laser bouncing simulation written in Python
